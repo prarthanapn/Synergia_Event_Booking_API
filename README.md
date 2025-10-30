@@ -164,5 +164,3 @@ All APIs were tested successfully in Postman and meet the requirements of the **
 **Course:** Node.js & Express Fundamentals – Assignment 1  
 **Date:** October 2025
 ````
-
-Would you like me to include screenshots or example Postman output sections in the README (for extra polish and full marks)?
